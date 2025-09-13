@@ -3,3 +3,7 @@
 [WARNING] 2025-09-01 10:10:45 - High memory usage
 [ERROR] 2025-09-01 10:15:30 - Disk full
 [INFO] 2025-09-01 10:20:00 - Backup completed
+[ERROR] 2025-09-01 10:25:00 - Failed login from 192.168.1.100
+[WARNING] 2025-09-01 10:30:00 - Suspicious activity from user admin@example.com
+[INFO] 2025-09-01 10:35:00 - Email sent to john.doe@example.org
+[ERROR] 2025-09-01 10:40:00 - Database connection failed from 10.0.0.15
