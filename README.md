@@ -26,13 +26,11 @@
 
 ## Features
 
-- **Input Validation**: Checks if log files exist before processing
 - **Frequency Count**: Count occurrences of each log level using for loops
-- **Data Redaction**: Mask sensitive information (emails, IPs, passwords, tokens) using sed and regex
+- **Data Redaction**: Mask sensitive information using sed and regex
 - **Report Generator**: Format timestamps and messages using awk/cut for analysis
 - **Interactive Menu**: CLI interface using select, case, and read commands
 - **CSV Export**: Generate timestamped CSV reports for data analysis
-- **Cleanup**: Remove temporary files
 
 
 ## Example Output
