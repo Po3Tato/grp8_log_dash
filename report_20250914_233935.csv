@@ -1,0 +1,10 @@
+Timestamp,Level,Message
+"INFO","INFO","Server started"
+"ERROR","ERROR","Connection timeout"
+"WARNING","WARNING","High memory usage"
+"ERROR","ERROR","Disk full"
+"INFO","INFO","Backup completed"
+"ERROR","ERROR","Failed login from 192.168.1.100"
+"WARNING","WARNING","Suspicious activity from user admin@example.com"
+"INFO","INFO","Email sent to john.doe@example.org"
+"ERROR","ERROR","Database connection failed from 10.0.0.15"
